@@ -4,7 +4,7 @@ clear
 
 while (true)
 
-echo "Trocando IP a cada 5 minutos"
+echo "Changing IP every 5 minutes"
 
 for ((k = 0; k <= 10 ; k++))
 
